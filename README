@@ -1,0 +1,6 @@
+CLIENT-SERVER-SAMPLE
+====================
+
+This small project is an example of a multi-threaded synchronized server that
+handles multiple users. These users must authenticate using RSA keys. The server
+will handle users bids on an imaginary product.
